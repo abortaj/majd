@@ -1,0 +1,25 @@
+.dataTables_filter{
+    text-align: left !important;
+}
+.dataTables_paginate{
+	text-align: left !important;	
+}
+div.dataTables_paginate li.previous a:before {
+    content: "";
+}
+div.dataTables_paginate li.next a:after {
+    content: "";
+}
+div.dataTables_paginate li.first > a, div.dataTables_paginate li.previous > a {
+    padding-left: 12px;
+}
+div.dataTables_paginate li.next > a, div.dataTables_paginate li.last > a {
+    padding-right: 12px;
+}
+table.table thead th.sorting:after, table.table thead th.sorting_asc:after, table.table thead th.sorting_desc:after {
+    top: 15px;
+}
+.multiselect__tags {
+    min-height: 30px;
+    padding: 4px 40px 0 8px;
+}

@@ -1,0 +1,31 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Cairo");
+
+// Override bootstrap variables
+@import "styles/variables";
+
+//FontAwesome
+@import '../vendor/font-awesome/css/font-awesome.min.css';
+
+// Animate.CSS
+@import '../vendor/animate.css/animate.min.css';
+
+@import '../vendor/simple-line-icons/css/simple-line-icons.css';
+
+// Weather Icons
+@import '../vendor/weather-icons/css/weather-icons.min.css';
+@import '../vendor/weather-icons/css/weather-icons-wind.min.css';
+
+// Datatables
+@import '../vendor/datatables/media/css/dataTables.bootstrap.css';
+@import '../vendor/dataTables.fontAwesome/index.css';
+
+// CSS Loaders
+@import '../vendor/loaders.css/loaders.css';
+@import '../vendor/spinkit/css/spinkit.css';
+@import '../vendor/bootstrap-rtl.css';
+@import '../vendor/app-rtl.css';
+@import '../vendor/theme-a.css';
+//@import "~select2/dist/css/select2.min.css";
+@import '../vendor/select2-bootstrap-theme/dist/select2-bootstrap.css';
+@import '../vendor/custom.css';

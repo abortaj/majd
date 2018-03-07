@@ -1,0 +1,11 @@
+.top-notification{
+    border-radius: 40px;
+    position: absolute;
+    top: -6px;
+    right: 7px;
+    left: auto;
+    width: 17px;
+    height: 10px;
+    line-height: 30px;
+    text-align: center;
+}
